@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Personal-Task-Tracker/static/css/main.cafddace.css",
+    "main.js": "/Personal-Task-Tracker/static/js/main.caeae92f.js",
+    "index.html": "/Personal-Task-Tracker/index.html",
+    "main.cafddace.css.map": "/Personal-Task-Tracker/static/css/main.cafddace.css.map",
+    "main.caeae92f.js.map": "/Personal-Task-Tracker/static/js/main.caeae92f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafddace.css",
+    "static/js/main.caeae92f.js"
+  ]
+}
